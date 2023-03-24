@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Multiaovbay"]
+	path = Multiaovbay
+	url = https://github.com/cran/Multiaovbay
+	shallow = true
+	registered = true
